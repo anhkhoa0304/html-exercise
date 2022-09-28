@@ -1,0 +1,30 @@
+body {
+    background-color: rgba(213, 225, 239, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+.class2 {
+    background-color: white;
+    text-align: center;
+    width: 250px;
+    height: 410px;
+    position: absolute;
+    font-family: 'Times New Roman', Times, serif;
+    font: size 12px;
+    border-radius: 10px 10px 10px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin: 10px;
+    padding: 10px 10px 10px 10px
+}
+
+/* sử dụng justify-content: để đặt nội dung về giữa khi kết hợp với mục display. */
+
+
+
